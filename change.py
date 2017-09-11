@@ -3,7 +3,7 @@
 __author__ = 'kjy2kh'
 
 def main():
-    print("i love cs3240")
+    print("i love cs3240 forever")
 
 if __name__ == '__main__':
     main()
